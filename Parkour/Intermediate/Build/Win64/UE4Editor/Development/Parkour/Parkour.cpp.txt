@@ -1,0 +1,2 @@
+E:\Repositories\ParkourGame\Parkour\Intermediate\Build\Win64\UE4Editor\Development\Parkour\Definitions.Parkour.h
+E:\Repositories\ParkourGame\Parkour\Source\Parkour\Parkour.h

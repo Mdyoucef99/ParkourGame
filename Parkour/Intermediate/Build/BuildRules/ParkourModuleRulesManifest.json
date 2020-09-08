@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Repositories\\ParkourGame\\Parkour\\Source\\Parkour\\Parkour.Build.cs",
+		"E:\\Repositories\\ParkourGame\\Parkour\\Source\\Parkour.Target.cs",
+		"E:\\Repositories\\ParkourGame\\Parkour\\Source\\ParkourEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}

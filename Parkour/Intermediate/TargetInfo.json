@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Parkour",
+			"Path": "E:\\Repositories\\ParkourGame\\Parkour\\Source\\Parkour.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ParkourEditor",
+			"Path": "E:\\Repositories\\ParkourGame\\Parkour\\Source\\ParkourEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
