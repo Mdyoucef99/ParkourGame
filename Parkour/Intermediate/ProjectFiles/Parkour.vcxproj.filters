@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Parkour.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{CC70A194-7AEF-4C85-9AD1-DFE05C410156}</UniqueIdentifier>
+      <UniqueIdentifier>{944BFFCE-4AF9-4AB9-A909-6455DAA99E51}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Parkour.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{05891A97-98D1-4AAA-A661-5371FA4F5556}</UniqueIdentifier>
+      <UniqueIdentifier>{E69BFA07-9AE7-4B79-A70C-44FAAF3A14CC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Parkour">
-      <UniqueIdentifier>{4387EFEB-612B-454B-B113-04198C7D7D48}</UniqueIdentifier>
+      <UniqueIdentifier>{E1FF06DB-4E3A-4B5E-AB1C-E3EA24C33D29}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Parkour\Parkour.Build.cs">
       <Filter>Source\Parkour</Filter>

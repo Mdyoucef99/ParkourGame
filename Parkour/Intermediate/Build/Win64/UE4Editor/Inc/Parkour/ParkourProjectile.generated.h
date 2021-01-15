@@ -1,4 +1,4 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+// Copyright Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -20,34 +20,12 @@ struct FHitResult;
 #define Parkour_Source_Parkour_ParkourProjectile_h_12_SPARSE_DATA
 #define Parkour_Source_Parkour_ParkourProjectile_h_12_RPC_WRAPPERS \
  \
-	DECLARE_FUNCTION(execOnHit) \
-	{ \
-		P_GET_OBJECT(UPrimitiveComponent,Z_Param_HitComp); \
-		P_GET_OBJECT(AActor,Z_Param_OtherActor); \
-		P_GET_OBJECT(UPrimitiveComponent,Z_Param_OtherComp); \
-		P_GET_STRUCT(FVector,Z_Param_NormalImpulse); \
-		P_GET_STRUCT_REF(FHitResult,Z_Param_Out_Hit); \
-		P_FINISH; \
-		P_NATIVE_BEGIN; \
-		P_THIS->OnHit(Z_Param_HitComp,Z_Param_OtherActor,Z_Param_OtherComp,Z_Param_NormalImpulse,Z_Param_Out_Hit); \
-		P_NATIVE_END; \
-	}
+	DECLARE_FUNCTION(execOnHit);
 
 
 #define Parkour_Source_Parkour_ParkourProjectile_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
  \
-	DECLARE_FUNCTION(execOnHit) \
-	{ \
-		P_GET_OBJECT(UPrimitiveComponent,Z_Param_HitComp); \
-		P_GET_OBJECT(AActor,Z_Param_OtherActor); \
-		P_GET_OBJECT(UPrimitiveComponent,Z_Param_OtherComp); \
-		P_GET_STRUCT(FVector,Z_Param_NormalImpulse); \
-		P_GET_STRUCT_REF(FHitResult,Z_Param_Out_Hit); \
-		P_FINISH; \
-		P_NATIVE_BEGIN; \
-		P_THIS->OnHit(Z_Param_HitComp,Z_Param_OtherActor,Z_Param_OtherComp,Z_Param_NormalImpulse,Z_Param_Out_Hit); \
-		P_NATIVE_END; \
-	}
+	DECLARE_FUNCTION(execOnHit);
 
 
 #define Parkour_Source_Parkour_ParkourProjectile_h_12_INCLASS_NO_PURE_DECLS \

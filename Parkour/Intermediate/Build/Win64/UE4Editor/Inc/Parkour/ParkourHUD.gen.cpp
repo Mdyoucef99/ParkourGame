@@ -1,4 +1,4 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+// Copyright Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -73,7 +73,7 @@ void EmptyLinkFunctionForGeneratedCodeParkourHUD() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AParkourHUD, 756552536);
+	IMPLEMENT_CLASS(AParkourHUD, 868228431);
 	template<> PARKOUR_API UClass* StaticClass<AParkourHUD>()
 	{
 		return AParkourHUD::StaticClass();
